@@ -150,3 +150,10 @@ npm info vue
 ![1.4.3.2](https://gitee.com/zgf1366/pic_store/raw/master/img/20210105003600.png#pic_center)
 
 1.3.4 配置完成。
+
+```html
+<style type="text/css">
+	img{text-align: center; margin: 0 auto;}
+</style>
+```
+
