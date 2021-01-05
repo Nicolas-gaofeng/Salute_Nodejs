@@ -8,8 +8,7 @@
 
    我是中国人，当然要打出我们的大国宝啦。另外这是文明致敬Nodejs的一种方式，搭配程序员都爱的学习网站logo风格，别有一番滋味在心头~
 
-
-![鲁迅](https://gitee.com/zgf1366/pic_store/raw/master/img/20210105154120.jpeg#pic_center)
+![鲁迅](https://gitee.com/zgf1366/pic_store/raw/master/img/20210105154120.jpeg)
 
 
 - 本地编译：
