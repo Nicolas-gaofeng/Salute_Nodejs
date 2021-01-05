@@ -1,4 +1,8 @@
-​                                  ![1](https://gitee.com/zgf1366/pic_store/raw/master/img/20210105150419.jpg)
+<div style="text-align:center;">
+
+![1](https://gitee.com/zgf1366/pic_store/raw/master/img/20210105153454.jpeg)          
+
+<div>                    
 
 ## 写在前面
 
@@ -6,10 +10,11 @@
 
    我是中国人，当然要打出我们的大国宝啦。另外这是文明致敬Nodejs的一种方式，搭配程序员都爱的学习网站logo风格，别有一番滋味在心头~
 
-   ​                               ![u=3397689449,4160955919&fm=26&gp=0](https://gitee.com/zgf1366/pic_store/raw/master/img/20210105110230.jpg)
-
+   <div style="text-align:center;">
+ ![u=3397689449,4160955919&fm=26&gp=0](https://gitee.com/zgf1366/pic_store/raw/master/img/20210105110230.jpg)
    
-
+<div>
+   
 - 本地编译：
 
   Markdown编辑器使用[Typora](https://typora.io/)
