@@ -151,9 +151,6 @@ npm info vue
 
 1.3.4 配置完成。
 
-```html
 <style type="text/css">
 	img{text-align: center; margin: 0 auto;}
 </style>
-```
-
