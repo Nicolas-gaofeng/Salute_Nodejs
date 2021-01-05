@@ -1,5 +1,8 @@
+<div align=center>
 
-![1](https://gitee.com/zgf1366/pic_store/raw/master/img/20210105153454.jpeg#pic_center)                            
+![1](https://gitee.com/zgf1366/pic_store/raw/master/img/20210105153454.jpeg#pic_center)       
+
+</div>                     
 
 
 ## 写在前面

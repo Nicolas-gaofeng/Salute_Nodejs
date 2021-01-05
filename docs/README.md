@@ -1,10 +1,7 @@
 <div align=center>
-
 ![1](https://gitee.com/zgf1366/pic_store/raw/master/img/20210105151907.jpeg)
 
 </div>
-
-测试
 
 
 ## 写在前面
@@ -13,11 +10,9 @@
 
   我是中国人，当然要打出我们的大国宝啦。另外这是文明致敬Nodejs的一种方式，搭配程序员都爱的学习网站logo风格，别有一番滋味在心头~
 
-  <center>
   
-  ![鲁迅](https://gitee.com/zgf1366/pic_store/raw/master/img/20210105151847.jpeg#pic_center)
+  ![鲁迅](https://gitee.com/zgf1366/pic_store/raw/master/img/20210105151847.jpeg)
   
-  </center>
 
 
 - 本地编译：
@@ -62,37 +57,37 @@
 
 根据自己需要下载对应的版本即可,我下载的是windows系统64位的版本。
 
-![1.1.1](https://gitee.com/zgf1366/pic_store/raw/master/img/20210105003202.png#pic_center)
+![1.1.1](https://gitee.com/zgf1366/pic_store/raw/master/img/20210105003202.png)
 
 ### 1.2 安装
 
 1.2.1 安装第一步直接点Next。
 
-![1.2.1](https://gitee.com/zgf1366/pic_store/raw/master/img/20210105003221.png#pic_center)
+![1.2.1](https://gitee.com/zgf1366/pic_store/raw/master/img/20210105003221.png)
 
 1.2.2 把选项打勾之后点击Next。
 
-![1.2.2](https://gitee.com/zgf1366/pic_store/raw/master/img/20210105003250.png#pic_center)
+![1.2.2](https://gitee.com/zgf1366/pic_store/raw/master/img/20210105003250.png)
 
 1.2.3 设置安装路径，设置完成之后点击Next。
 
-![1.2.3](https://gitee.com/zgf1366/pic_store/raw/master/img/20210105003259.png#pic_center)
+![1.2.3](https://gitee.com/zgf1366/pic_store/raw/master/img/20210105003259.png)
 
 1.2.4 点击Next。
 
-![1.2.4](https://gitee.com/zgf1366/pic_store/raw/master/img/20210105003306.png#pic_center)
+![1.2.4](https://gitee.com/zgf1366/pic_store/raw/master/img/20210105003306.png)
 
 1.2.5 点击Install安装。
 
-![1.2.5](https://gitee.com/zgf1366/pic_store/raw/master/img/20210105003315.png#pic_center)
+![1.2.5](https://gitee.com/zgf1366/pic_store/raw/master/img/20210105003315.png)
 
 1.2.6 等待安装完成。
 
-![1.2.6](https://gitee.com/zgf1366/pic_store/raw/master/img/20210105003321.png#pic_center)
+![1.2.6](https://gitee.com/zgf1366/pic_store/raw/master/img/20210105003321.png)
 
 1.2.7 点击Finish完成安装。
 
-![1.2.7](https://gitee.com/zgf1366/pic_store/raw/master/img/20210105003331.png#pic_center)
+![1.2.7](https://gitee.com/zgf1366/pic_store/raw/master/img/20210105003331.png)
 
 1.2.8 查看node.js是否安装成功
 
@@ -105,7 +100,7 @@ npm -v
 
 npm 随安装程序自动安装，作用就是对 Node.js 依赖的包进行管理
 
-![1.3](https://gitee.com/zgf1366/pic_store/raw/master/img/20210105003348.png#pic_center)
+![1.3](https://gitee.com/zgf1366/pic_store/raw/master/img/20210105003348.png)
 
 ### 1.3 配置
 
@@ -132,11 +127,11 @@ npm list -global
 
 在环境变量 -> 系统变量中新建一个变量名为 “NODE_PATH”， 值为“D:\Program Files\nodejs\node_modules”，如下图所示
 
-![1.4.2](https://gitee.com/zgf1366/pic_store/raw/master/img/20210105003527.png#pic_center)
+![1.4.2](https://gitee.com/zgf1366/pic_store/raw/master/img/20210105003527.png)
 
 然后编辑用户变量里的Path，将相应npm的路径改为：D:\software\nodejs\node_global，如下：
 
-![1.4.2.2](https://gitee.com/zgf1366/pic_store/raw/master/img/20210105003535.png#pic_center)
+![1.4.2.2](https://gitee.com/zgf1366/pic_store/raw/master/img/20210105003535.png)
 
 
 
@@ -148,7 +143,7 @@ npm list -global
 npm config set registry=http://registry.npm.taobao.org 
 ```
 
-![1.4.3](https://gitee.com/zgf1366/pic_store/raw/master/img/20210105003551.png#pic_center)
+![1.4.3](https://gitee.com/zgf1366/pic_store/raw/master/img/20210105003551.png)
 
 查看镜像站是否有用，看看能否获得vue的信息。如下图所示
 
@@ -156,10 +151,7 @@ npm config set registry=http://registry.npm.taobao.org
 npm info vue 
 ```
 
-![1.4.3.2](https://gitee.com/zgf1366/pic_store/raw/master/img/20210105003600.png#pic_center)
+![1.4.3.2](https://gitee.com/zgf1366/pic_store/raw/master/img/20210105003600.png)
 
 1.3.4 配置完成。
 
-<style type="text/css">
-	img{text-align: center; margin: 0 auto;}
-</style>
