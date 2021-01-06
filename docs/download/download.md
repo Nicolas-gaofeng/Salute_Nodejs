@@ -40,7 +40,7 @@
 
 windows下打开 cmd 输入以下命令行
 
-```
+```bash
 node -v
 npm -v
 ```
@@ -57,7 +57,7 @@ npm 随安装程序自动安装，作用就是对 Node.js 依赖的包进行管�
 
 在nodejs目录下，新建node_global、node_cache两个文件夹，然后运行以下2条命令：
 
-```
+```bash
 npm config set prefix "D:\software\nodejs\node_global"
 npm config set cache "D:\software\nodejs\node_cache"
 ```
@@ -66,7 +66,7 @@ npm config set cache "D:\software\nodejs\node_cache"
 
 查看npm的本地仓库，输入命令
 
-```
+```bash
 npm list -global
 ```
 
@@ -86,7 +86,7 @@ npm list -global
 
 输入命令
 
-```
+```bash
 npm config set registry=http://registry.npm.taobao.org 
 ```
 
@@ -94,7 +94,7 @@ npm config set registry=http://registry.npm.taobao.org
 
 查看镜像站是否有用，看看能否获得vue的信息。如下图所示
 
-```
+```bash
 npm info vue 
 ```
 
